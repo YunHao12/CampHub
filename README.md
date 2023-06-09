@@ -1,1 +1,1 @@
-# YelpCamp
+# CampHub
